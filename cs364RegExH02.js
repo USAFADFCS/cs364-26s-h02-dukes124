@@ -7,6 +7,7 @@
  * Used https://www.regular-expressions.info/backref.html#:~:text=Using%20Backreferences%20To%20Match%20The,such%20as%20non%2Dcapturing%20groups.
  * for number 8.
  * Used https://uibakery.io/regex-library/password for help with password regex.
+ * Used https://regex101.com/ for regex validation.
  */ 
 
 //1: match the word "hello"
